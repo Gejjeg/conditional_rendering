@@ -1,6 +1,6 @@
 import React from "react";
 
-export class Welcome extends React.Component {
+export class WelcomeModify extends React.Component {
     static defaultProps = {
         name: "Juliana"
     }; 
